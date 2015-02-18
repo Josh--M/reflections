@@ -1,0 +1,7 @@
+What happens when you initialise a repository? Why do you need to do it?
+
+	It creates a repo on an initial commit (no commits made yet) and notes any untracked files currently in that directory. To start tracking files/commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It has some changes from what's in the working directory, but it hasn't been saved into the respository. It provides an intermediate step for work to be done on a file before it is changed.	
